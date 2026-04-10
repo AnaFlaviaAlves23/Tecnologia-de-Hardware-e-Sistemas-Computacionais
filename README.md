@@ -1,34 +1,7 @@
-🎯 Objetivos
-Entender os fundamentos de hardware
-Conhecer a arquitetura de computadores
-Aprender montagem e configuração de PCs
-Realizar diagnóstico e manutenção
-Integrar conhecimentos de software e sistemas operacionais
-📚 Conteúdo Abordado
-🔹 Fundamentos Essenciais
-Conceitos de hardware
-Noções de eletricidade
-Sistemas binário e hexadecimal
-🔹 Arquitetura de Computadores
-Modelo de Von Neumann
-CPU (ULA, UC, registradores)
-Barramentos
-BIOS/UEFI
-🔹 Componentes de Hardware
-Placa-mãe
-Memórias (RAM, ROM, cache)
-HD, SSD e NVMe
-Fontes e refrigeração
-Periféricos
-🔹 Montagem e Configuração
-Compatibilidade de peças
-Montagem de computadores
-Configuração inicial
-🔹 Sistemas Operacionais
-Instalação de SO
-Drivers
-Particionamento
-Comandos básicos de Linux
-🔹 Manutenção e Suporte
-Diagnóstico de problemas
-Manutenção preventiva e corretiva
+Este repositório reúne conteúdos relacionados à disciplina Tecnologias de Hardware e Sistemas Computacionais, ofertada no curso de Sistemas de Informação. A proposta da disciplina é proporcionar uma compreensão completa sobre o funcionamento dos computadores, abordando desde os conceitos fundamentais de hardware até práticas de montagem, configuração e manutenção.
+
+Ao longo do estudo, são explorados temas como arquitetura de computadores, incluindo o modelo de Von Neumann e o funcionamento interno da CPU, além da comunicação entre os componentes por meio de barramentos e o processo de inicialização via BIOS/UEFI. Também são apresentados os principais componentes de hardware, como placa-mãe, memórias, dispositivos de armazenamento (HD, SSD e NVMe), fontes de alimentação e periféricos, destacando suas funções e características.
+
+A disciplina também envolve atividades práticas relacionadas à montagem e configuração de computadores, considerando a compatibilidade entre componentes e os cuidados necessários durante o processo. Além disso, são abordados conceitos de instalação e configuração de sistemas operacionais, incluindo drivers, particionamento de disco e noções básicas de comandos em Linux.
+
+Outro ponto importante é o estudo de diagnóstico e manutenção, onde são apresentadas técnicas para identificar e resolver problemas tanto de hardware quanto de software, além de práticas de manutenção preventiva e corretiva. A metodologia utilizada combina explicações teóricas com resolução de exercícios e uso de ambientes virtuais de aprendizagem.
